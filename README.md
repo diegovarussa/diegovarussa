@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Diego</h1>
 <h3 align="center">Working with web development since 2011, I am very comfortable developing front-end, back-end, and cloud architecture ;)</h3>
 
-- 👨‍💻 All of my projects are available at [https://diegovarussa.github.io/](https://diegovarussa.github.io/)
+- 👨‍💻 Resume at [https://diegovarussa.github.io/](https://diegovarussa.github.io/)
 
 - 📫 How to reach me **diegovarussa@gmail.com**
 
