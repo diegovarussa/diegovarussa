@@ -1,24 +1,40 @@
-<h1 align="center">Hi, I'm Diego</h1>
-<h3 align="center">Working with web development since 2011, I am very comfortable developing front-end, back-end, and cloud architecture ;)</h3>
+# Diego Varussa Pereira
 
-- 👨‍💻 Resume at [https://diegovarussa.github.io/](https://diegovarussa.github.io/)
-
-- 📫 How to reach me **diegovarussa@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/diegovarussa/](https://www.linkedin.com/in/diegovarussa/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/diegovarussa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diegovarussa" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Statistics:</h3>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diegovarussa&show_icons=true&locale=en&layout=compact" alt="diegovarussa" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diegovarussa&show_icons=true&locale=en" alt="diegovarussa" /></p>
+**Senior Backend Engineer · Cloud Architect**
+Node.js · TypeScript · NestJS · AWS · Azure · Microservices
 
 ---
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/diegovarussa"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="diegovarussa" /></a></p><br><br>
+## About
+
+14+ years building high-scale, cloud-native backend systems — from real-time
+event-driven infrastructure to microservices migrations that cut costs and
+latency at scale.
+
+Currently developing a desktop application with an in-game overlay interface,
+using AI-driven workflows (Claude) to accelerate delivery.
+
+---
+
+## Stack
+
+**Backend** — Node.js · TypeScript · NestJS · GraphQL · REST · PHP  
+**Frontend** — Vue.js 3 · Quasar · Electron · Pinia  
+**Cloud** — AWS · Azure · GCP · Kubernetes (EKS/AKS) · CDK · Terraform  
+**Data** — MongoDB · PostgreSQL · MySQL · DynamoDB  
+**Tooling** — Docker · CI/CD · Grafana · CloudWatch · Axiom  
+
+---
+
+## Highlights
+
+- **97% latency reduction** — Scholarship Matching platform (5s → 150ms)
+- **98% faster data processing** — Magento EAV import (20h → 20min)
+- **75% cloud cost savings** — GCP → Coolify infrastructure migration
+- **40% cost reduction** — EC2 monolith → Microservices/Serverless at Mobingi
+
+---
+
+## Connect
+
+[linkedin.com/in/diego-varussa](https://www.linkedin.com/in/diego-varussa)  
