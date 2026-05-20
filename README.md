@@ -26,15 +26,6 @@ using AI-driven workflows (Claude) to accelerate delivery.
 
 ---
 
-## Highlights
-
-- **97% latency reduction** — Scholarship Matching platform (5s → 150ms)
-- **98% faster data processing** — Magento EAV import (20h → 20min)
-- **75% cloud cost savings** — GCP → Coolify infrastructure migration
-- **40% cost reduction** — EC2 monolith → Microservices/Serverless at Mobingi
-
----
-
 ## Connect
 
 [linkedin.com/in/diego-varussa](https://www.linkedin.com/in/diego-varussa)  
